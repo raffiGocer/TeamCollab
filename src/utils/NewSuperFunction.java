@@ -9,5 +9,7 @@ public class NewSuperFunction {
         System.out.println("Added a new feature");
 
         System.out.println("AAA - BBB");
+
+        System.out.println("Hello World");
     }
 }
