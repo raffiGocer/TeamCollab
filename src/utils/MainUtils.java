@@ -1,16 +1,13 @@
 package utils;
 
 public class MainUtils {
-    public static void coolMethod(){
 
-        //missed static first
+    public void coolMethod(){
 
     }
-public static void otherCoolMethod(){
+
+    public void otherCoolMethod(){
 
 
-       //same here.
-//...
-}
-
+    }
 }
