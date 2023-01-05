@@ -11,5 +11,7 @@ public class NewSuperFunction {
         System.out.println("AAA - BBB");
 
         System.out.println("Hello World");
+
+        System.out.println("Another Hello world");
     }
 }
